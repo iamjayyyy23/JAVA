@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9376ac2b-51ec-4391-8354-17d759d23dca" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/DSA/secondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/sortingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/VarArgs/problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/VarArgs/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling.java" afterDir="false" />
+    <list default="true" id="9376ac2b-51ec-4391-8354-17d759d23dca" name="Changes" comment="Method overload using varargs. Then I done exception handling.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/FunProblems/problem1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/exceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +75,7 @@
     "git.auto.fetch.suggestion.counter": "1",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -108,7 +106,9 @@
       <workItem from="1776410924341" duration="2750000" />
       <workItem from="1776435472379" duration="2606000" />
       <workItem from="1776653728618" duration="1112000" />
-      <workItem from="1777361511610" duration="2832000" />
+      <workItem from="1777361511610" duration="3759000" />
+      <workItem from="1777365357425" duration="657000" />
+      <workItem from="1777391677718" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775822174153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Method overload using varargs. Then I done exception handling.">
+      <option name="closed" value="true" />
+      <created>1777364582767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777364582767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Method overload using varargs. Then I done exception handling." />
+    <option name="LAST_COMMIT_MESSAGE" value="Method overload using varargs. Then I done exception handling." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
