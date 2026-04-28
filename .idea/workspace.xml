@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9376ac2b-51ec-4391-8354-17d759d23dca" name="Changes" comment="." />
+    <list default="true" id="9376ac2b-51ec-4391-8354-17d759d23dca" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/DSA/secondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/sortingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/VarArgs/problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/VarArgs/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
@@ -47,7 +61,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ReverseArray.executor": "Run",
+    "Application.exceptionHandling.executor": "Run",
     "Application.helloWorld.executor": "Run",
+    "Application.problem1.executor": "Run",
+    "Application.secondLargestElement.executor": "Run",
+    "Application.sortingZeros.executor": "Run",
+    "Application.sum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -83,7 +103,12 @@
       <option name="presentableId" value="Default" />
       <updated>1775821865760</updated>
       <workItem from="1775821867012" duration="314000" />
-      <workItem from="1776223916880" duration="903000" />
+      <workItem from="1776223916880" duration="1244000" />
+      <workItem from="1776410572782" duration="177000" />
+      <workItem from="1776410924341" duration="2750000" />
+      <workItem from="1776435472379" duration="2606000" />
+      <workItem from="1776653728618" duration="1112000" />
+      <workItem from="1777361511610" duration="2832000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -113,5 +138,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
